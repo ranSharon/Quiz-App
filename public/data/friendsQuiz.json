@@ -1,0 +1,219 @@
+[
+  {
+    "quizType": "Friends",
+    "questions": [
+      {
+        "text": "How do you feel about having kids?",
+        "imgSrc": "friends-q1.jpg",
+        "options": [
+          {
+            "text": "I never want kids",
+            "value": 10
+          },
+          {
+            "text": "I want to adopt a baby",
+            "value": 20
+          },
+          {
+            "text": "I can't wait to have them",
+            "value": 30
+          },
+          {
+            "text": "I already have kids",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "Which item can be associated with you?",
+        "imgSrc": "friends-q2.jpg",
+        "options": [
+          {
+            "text": "Cell phone",
+            "value": 10
+          },
+          {
+            "text": "Money",
+            "value": 20
+          },
+          {
+            "text": "Wax",
+            "value": 30
+          },
+          {
+            "text": "Flower",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "Which place would you enjoy the most?",
+        "imgSrc": "friends-q3.jpg",
+        "options": [
+          {
+            "text": "The beach",
+            "value": 10
+          },
+          {
+            "text": "The ski resort",
+            "value": 20
+          },
+          {
+            "text": "The farm",
+            "value": 30
+          },
+          {
+            "text": "The mega city",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "Which of these animals would you like to be?",
+        "imgSrc": "friends-q4.jpg",
+        "options": [
+          {
+            "text": "Shaw",
+            "value": 10
+          },
+          {
+            "text": "Cat",
+            "value": 20
+          },
+          {
+            "text": "Cute dog",
+            "value": 30
+          },
+          {
+            "text": "Wild horse",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "What do you most value in friends?",
+        "imgSrc": "friends-q5.jpg",
+        "options": [
+          {
+            "text": "Compassion",
+            "value": 10
+          },
+          {
+            "text": "Sense of humor",
+            "value": 20
+          },
+          {
+            "text": "Charisma",
+            "value": 30
+          },
+          {
+            "text": "Independence",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "What would you most likely order at a restaurant?",
+        "imgSrc": "friends-q6.jpg",
+        "options": [
+          {
+            "text": "Vegetable soup",
+            "value": 10
+          },
+          {
+            "text": "Chicken salad",
+            "value": 20
+          },
+          {
+            "text": "Lobster",
+            "value": 30
+          },
+          {
+            "text": "Pizza",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "Where would you have your honeymoons?",
+        "imgSrc": "friends-q7.jpg",
+        "options": [
+          {
+            "text": "Venice italy",
+            "value": 10
+          },
+          {
+            "text": "Paris france",
+            "value": 20
+          },
+          {
+            "text": "Athens greece",
+            "value": 30
+          },
+          {
+            "text": "Las vegas nevada",
+            "value": 40
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "text": "Gunther",
+        "description": "You are a very calm and emotional person. Sometimes people underestimate you, but you often see a few steps ahead of them. The world would be a lot less interesting without you.",
+        "lowValue": 70,
+        "highValue": 80,
+        "imgSrc": "friends-r1.jpg"
+      },
+      {
+        "text": "Janice",
+        "description": "You are a very loud and funny person. You are not afraid to speak your mind. Your voice may sometimes irritate people, but after they know you they your big heart.",
+        "lowValue": 90,
+        "highValue": 110,
+        "imgSrc": "friends-r2.jpg"
+      },
+      {
+        "text": "Chandler",
+        "description": "You are very sarcastic and funny person. You use your sense of humor to break awkward silences. You are a great company and friends love to spend time with you.",
+        "lowValue": 120,
+        "highValue": 140,
+        "imgSrc": "friends-r3.png"
+      },
+      {
+        "text": "Ross",
+        "description": "Yor a very intelligent and organized person. Sometimes you act childish and sensibly, but people who know you think you are a great company to spend time with.",
+        "lowValue": 150,
+        "highValue": 170,
+        "imgSrc": "friends-r4.jpg"
+      },
+      {
+        "text": "Phoebe",
+        "description": "You are a very adorable and creative person. You know exactly how to deal with everyday problems, What would life be like without such a fun and loving friend as you are?",
+        "lowValue": 180,
+        "highValue": 200,
+        "imgSrc": "friends-r5.jpg"
+      },
+      {
+        "text": "Monica",
+        "description": "You are a very mature and competitive person. Everything must be clean and organized, otherwise you simply cant sleep. Friends are always asking you for advice.",
+        "lowValue": 210,
+        "highValue": 220,
+        "imgSrc": "friends-r6.jpg"
+      },
+      {
+        "text": "Rachel",
+        "description": "You are a very romantic and smart person. Your sense of fashion always makes people on the streets turn their heads after you. Your friends think that you are trustworthy. ",
+        "lowValue": 230,
+        "highValue": 250,
+        "imgSrc": "friends-r7.png"
+      },
+      {
+        "text": "Joey",
+        "description": "You are a very flirty and confident person. Many times simple things make you happy. Your heart is big and you would go to the end of the world for your friends.",
+        "lowValue": 260,
+        "highValue": 280,
+        "imgSrc": "friends-r8.jpg"
+      }
+    ]
+  }
+]

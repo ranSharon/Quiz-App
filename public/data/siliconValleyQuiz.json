@@ -1,0 +1,233 @@
+[
+  {
+    "quizType": "Silicon Valley",
+    "questions": [
+      {
+        "text": "Can you drop out of school to follow your dreams?",
+        "imgSrc": "sv-q1.jpg",
+        "options": [
+          {
+            "text": "I hate school",
+            "value": 30
+          },
+          {
+            "text": "Indifferent",
+            "value": 50
+          },
+          {
+            "text": "I can try it",
+            "value": 40
+          },
+          {
+            "text": "If it would be worth it, yes",
+            "value": 10
+          },
+          {
+            "text": "Never!",
+            "value": 20
+          }
+        ]
+      },
+      {
+        "text": "How good are you with people?",
+        "imgSrc": "sv-q2.jpg",
+        "options": [
+          {
+            "text": "You bet I am",
+            "value": 20
+          },
+          {
+            "text": "Only when I need them",
+            "value": 10
+          },
+          {
+            "text": "I do my best",
+            "value": 50
+          },
+          {
+            "text": "Only with those I find attractive",
+            "value": 40
+          },
+          {
+            "text": "I can talk a dying man out of dying",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "text": "Which is your strongest selling point?",
+        "imgSrc": "sv-q3.jpg",
+        "options": [
+          {
+            "text": "My passion for what I do",
+            "value": 10
+          },
+          {
+            "text": "I am focused",
+            "value": 30
+          },
+          {
+            "text": "I am very complicated",
+            "value": 20
+          },
+          {
+            "text": "I am very friendly",
+            "value": 40
+          },
+          {
+            "text": "I am good with words",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "text": "Choose: work on your own or find a job",
+        "imgSrc": "sv-q4.jpg",
+        "options": [
+          {
+            "text": "Tough choice",
+            "value": 50
+          },
+          {
+            "text": "Any one works for me",
+            "value": 40
+          },
+          {
+            "text": "Owing a business is stressing",
+            "value": 20
+          },
+          {
+            "text": "I work better on my own",
+            "value": 10
+          },
+          {
+            "text": "Find a job",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "text": "What attracts you to a person?",
+        "imgSrc": "sv-q5.jpg",
+        "options": [
+          {
+            "text": "Sense of humour",
+            "value": 30
+          },
+          {
+            "text": "Great listing ability",
+            "value": 20
+          },
+          {
+            "text": "Their demeanour",
+            "value": 50
+          },
+          {
+            "text": "An awesome smile",
+            "value": 10
+          },
+          {
+            "text": "Good looks",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "You are to address an angry mob, you...",
+        "imgSrc": "sv-q6.jpg",
+        "options": [
+          {
+            "text": "Think twice before I do",
+            "value": 40
+          },
+          {
+            "text": "Do my best to appease them",
+            "value": 10
+          },
+          {
+            "text": "Judge the situation first",
+            "value": 30
+          },
+          {
+            "text": "Rather not",
+            "value": 20
+          },
+          {
+            "text": "Take center stage",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "text": "On a scale of 1 to 5, how honest are you with friends?",
+        "imgSrc": "sv-q7.jpg",
+        "options": [
+          {
+            "text": "5",
+            "value": 10
+          },
+          {
+            "text": "Depends on the friend",
+            "value": 40
+          },
+          {
+            "text": "3",
+            "value": 20
+          },
+          {
+            "text": "4",
+            "value": 30
+          },
+          {
+            "text": "2",
+            "value": 50
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "text": "Dinesh Chughtai",
+        "description": "You are a bunch of talent, very sarcastic though callous sometimes. You love for materialistic things are of the charts, a visionary and you are quite unlucky with women/men.",
+        "lowValue": 70,
+        "highValue": 110,
+        "imgSrc": "sv-r1.jpg"
+      },
+      {
+        "text": "Bertram Gilfoyle",
+        "description": "You love to have fun as much as time allows you. You are more open to people you consider friends which you prank quite often. You are the most sarcastic of your friends. You are a brutally honest person.",
+        "lowValue": 120,
+        "highValue": 150,
+        "imgSrc": "sv-r2.jpeg"
+      },
+      {
+        "text": "Richards Hendricks",
+        "description": "Your are an introvert, an unstoppable goal chaser and a willing heart to do what it takes to achieve your dreams. You have such a high resistance level to anger outbursts with a limit though. If only you could just realise the amount of unrealised potential you have if only you get out your comfort zone.",
+        "lowValue": 160,
+        "highValue": 200,
+        "imgSrc": "sv-r3.jpeg"
+      },
+      {
+        "text": "Erlich Bachman",
+        "description": "You are on confident at the same time, arrogant individual. You make a great orator, negotiator and an awesome company representative.",
+        "lowValue": 210,
+        "highValue": 250,
+        "imgSrc": "sv-r4.jpg"
+      },
+      {
+        "text": "Nelson Bighetti",
+        "description": "People especially your friends think you are impressionable to which you refuse to believe though it is true. You are a go getter with opportunistic tendencies. You are a spendthrift and you often make poor choices (business - wise especially). You can also be easily deceived and exploited.",
+        "lowValue": 260,
+        "highValue": 300,
+        "imgSrc": "sv-r5.jpg"
+      },
+      {
+        "text": "Jared Dunn",
+        "description": "You are strongly attracted to a person who is more focused then you are, you see yourself in them and so help the person achieve their goal, You are meek, reserved, unbelievably optimistic, selfless and could be awkward too.",
+        "lowValue": 310,
+        "highValue": 350,
+        "imgSrc": "sv-r6.jpg"
+      }
+    ]
+  }
+]
