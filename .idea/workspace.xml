@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d05ae0-b552-4475-9d25-6056a6175675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/data/friendsQuiz.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data/gamesOfThronesQuiz.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/data/siliconValleyQuiz.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Option.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Options.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Question.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Questions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TvShowCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/localStorage/localStorage.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/IOption.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/IQuestion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/IQuiz.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/IResult.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/App/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/App/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Quiz/Quiz.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Result/Result.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/configureStore.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/configureStore.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/quizzes.api.middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,14 +37,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/App/App.test.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="336">
               <caret line="19" selection-start-line="19" selection-end-line="20" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -139,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/store/configureStore.test.ts" />
         <option value="$PROJECT_DIR$/src/pages/App/App.tsx" />
         <option value="$PROJECT_DIR$/src/pages/App/App.test.tsx" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -165,52 +152,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="App" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personality-quiz-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personality-quiz-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="Quiz-App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Quiz-App" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../my projects/timetable-platform-for-hanisui-high-school" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Weather-Map-App-github" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -274,11 +233,13 @@
       <workItem from="1562015054971" duration="1431000" />
       <workItem from="1562018402984" duration="8932000" />
       <workItem from="1562192842748" duration="618000" />
+      <workItem from="1562506659468" duration="731000" />
+      <workItem from="1562507515470" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160786000" />
+    <option name="totallyTimeSpent" value="161601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1213" height="773" extended-state="6" />
@@ -591,11 +552,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/App/App.test.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="336">
           <caret line="19" selection-start-line="19" selection-end-line="20" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
