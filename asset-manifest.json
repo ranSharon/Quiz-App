@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Quiz-App/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/Quiz-App/static/js/main.820cabdd.chunk.js",
+    "main.js.map": "/Quiz-App/static/js/main.820cabdd.chunk.js.map",
+    "runtime~main.js": "/Quiz-App/static/js/runtime~main.9f56f2ee.js",
+    "runtime~main.js.map": "/Quiz-App/static/js/runtime~main.9f56f2ee.js.map",
+    "static/js/2.8e0757a5.chunk.js": "/Quiz-App/static/js/2.8e0757a5.chunk.js",
+    "static/js/2.8e0757a5.chunk.js.map": "/Quiz-App/static/js/2.8e0757a5.chunk.js.map",
+    "index.html": "/Quiz-App/index.html",
+    "precache-manifest.483a916a99886cad06fbb9172d27c3d0.js": "/Quiz-App/precache-manifest.483a916a99886cad06fbb9172d27c3d0.js",
+    "service-worker.js": "/Quiz-App/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/Quiz-App/static/css/main.f6cffc85.chunk.css.map",
+    "static/media/friends.jpg": "/Quiz-App/static/media/friends.688770de.jpg",
+    "static/media/got.jpg": "/Quiz-App/static/media/got.2432dfb3.jpg",
+    "static/media/sv.png": "/Quiz-App/static/media/sv.b768c2be.png"
+  }
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "quizType": "Game Of Thrones",
+    "questions": [
+      {
+        "text": "What animal relates to you the most?",
+        "imgSrc": "got-q1.png",
+        "options": [
+          {
+            "text": "Wolf",
+            "value": 40
+          },
+          {
+            "text": "Lion",
+            "value": 30
+          },
+          {
+            "text": "Bird",
+            "value": 20
+          },
+          {
+            "text": "Deer",
+            "value": 10
+          },
+          {
+            "text": "Dragon",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "text": "Pick the word that best describes you...",
+        "imgSrc": "got-q2.jpg",
+        "options": [
+          {
+            "text": "Knowledge",
+            "value": 30
+          },
+          {
+            "text": "Courage",
+            "value": 10
+          },
+          {
+            "text": "Love",
+            "value": 50
+          },
+          {
+            "text": "Honor",
+            "value": 20
+          },
+          {
+            "text": "Power",
+            "value": 40
+          }
+        ]
+      },
+      {
+        "text": "Which weapon would you use to kill your enemy?",
+        "imgSrc": "got-q3.jpg",
+        "options": [
+          {
+            "text": "Wildfire",
+            "value": 40
+          },
+          {
+            "text": "Crossbow",
+            "value": 10
+          },
+          {
+            "text": "Dragonglass",
+            "value": 50
+          },
+          {
+            "text": "Needle",
+            "value": 20
+          },
+          {
+            "text": "Oathkeeper",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "text": "Which of these characters would you be friends with?",
+        "imgSrc": "got-q4.jpg",
+        "options": [
+          {
+            "text": "Brienne of tarth",
+            "value": 20
+          },
+          {
+            "text": "Samwell Tarley",
+            "value": 40
+          },
+          {
+            "text": "Bronn",
+            "value": 10
+          },
+          {
+            "text": "Hodor",
+            "value": 30
+          },
+          {
+            "text": "Davos Seaworth",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "text": "What game of thrones place would you like to visit?",
+        "imgSrc": "got-q5.jpg",
+        "options": [
+          {
+            "text": "Braavos",
+            "value": 20
+          },
+          {
+            "text": "Volantis",
+            "value": 10
+          },
+          {
+            "text": "King's landing",
+            "value": 30
+          },
+          {
+            "text": "Winterfell",
+            "value": 40
+          },
+          {
+            "text": "Dragonstone",
+            "value": 50
+          }
+        ]
+      },
+      {
+        "text": "What would you rather control?",
+        "imgSrc": "got-q6.jpg",
+        "options": [
+          {
+            "text": "Money",
+            "value": 20
+          },
+          {
+            "text": "Animals",
+            "value": 40
+          },
+          {
+            "text": "Dragons",
+            "value": 50
+          },
+          {
+            "text": "Kingdoms",
+            "value": 10
+          },
+          {
+            "text": "Fire",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "text": "If you could revive one dead character who would it be?",
+        "imgSrc": "got-q7.jpeg",
+        "options": [
+          {
+            "text": "Joffrey Baratheon",
+            "value": 10
+          },
+          {
+            "text": "Ned Stark",
+            "value": 50
+          },
+          {
+            "text": "Robb Stark",
+            "value": 40
+          },
+          {
+            "text": "Tywin Lannister",
+            "value": 20
+          },
+          {
+            "text": "Ygritte",
+            "value": 30
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "text": "Cersei Lannister",
+        "description": "You are really ambitious, organized and tactful. You're all about what's best for your loved once, no matter the consequences.",
+        "lowValue": 70,
+        "highValue": 110,
+        "imgSrc": "got-r1.jpg"
+      },
+      {
+        "text": "Jaime Lannister",
+        "description": "A lot of people think you are arrogant, but you are also loyal and surprisingly fair-minded. You want to create a good future for those you love.",
+        "lowValue": 120,
+        "highValue": 150,
+        "imgSrc": "got-r2.jpg"
+      },
+      {
+        "text": "Arya Stark",
+        "description": "You are fiercely independent, powerful and loyal. You are a planner who's not afraid to seek revenge and justice. You're dedicated and you put a lot of effort into everything you do.",
+        "lowValue": 160,
+        "highValue": 200,
+        "imgSrc": "got-r3.jpeg"
+      },
+      {
+        "text": "Tyrion Lannister",
+        "description": "Your greatest weapon is your mind. You are clever and outspoken. You wear your sarcasm and wit like a shield. You've worked hard to be, if not a good person, then at least a decent one.",
+        "lowValue": 210,
+        "highValue": 250,
+        "imgSrc": "got-r4.jpg"
+      },
+      {
+        "text": "Jon Snow",
+        "description": "You are a loner with a true sense of honor and loyalty. Experience in your live have made you wary, but you don't let that impact on your determination to support those you care about.",
+        "lowValue": 260,
+        "highValue": 300,
+        "imgSrc": "got-r5.jpeg"
+      },
+      {
+        "text": "Daenerys Targaryen",
+        "description": "The world is your to taken. you are focused, integral and committed. You're willing to struggle to achieve your goal.",
+        "lowValue": 310,
+        "highValue": 350,
+        "imgSrc": "got-r6.jpg"
+      }
+    ]
+  }
+]
