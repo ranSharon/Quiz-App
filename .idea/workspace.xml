@@ -18,6 +18,7 @@
         <option value="tsconfig.json" />
         <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -33,17 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/personality-quiz-app.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="25" />
@@ -123,7 +113,7 @@
       <workItem from="1562192842748" duration="618000" />
       <workItem from="1562506659468" duration="731000" />
       <workItem from="1562507515470" duration="84000" />
-      <workItem from="1566325450959" duration="522000" />
+      <workItem from="1566325450959" duration="2016000" />
     </task>
     <servers />
   </component>
