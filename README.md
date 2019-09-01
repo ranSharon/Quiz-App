@@ -1,6 +1,5 @@
 See live demo at: https://quiz-app-by-ran.herokuapp.com
 
-
 # Quiz-App
 
 ## About The Project && Dependencies

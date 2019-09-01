@@ -4,6 +4,7 @@
     <list default="true" id="30d05ae0-b552-4475-9d25-6056a6175675" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="ts.external.directory.path" value="C:\Users\ransh\dev\Webbeast\projects\personality-quiz-app\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\ransh\dev\github repositories\Quiz-App\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -112,7 +113,8 @@
       <workItem from="1562192842748" duration="618000" />
       <workItem from="1562506659468" duration="731000" />
       <workItem from="1562507515470" duration="84000" />
-      <workItem from="1566325450959" duration="2660000" />
+      <workItem from="1566325450959" duration="2927000" />
+      <workItem from="1567349359875" duration="437000" />
     </task>
     <servers />
   </component>
@@ -124,7 +126,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
